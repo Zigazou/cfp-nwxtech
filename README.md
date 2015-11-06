@@ -4,7 +4,7 @@
 
 Les conférences [#nwxtech](https://github.com/NormandieWebXperts/conferences-techniques-nwx) sont proposées par l'association [#NWX](http://nwx.fr) environ deux fois par an.  
 L'objectif est d'échanger sur des sujets techniques variés liés au web.  
-Cet événement est gratuit et ouvert à tous !
+Cet événement est gratuit et ouvert à tous.
 
 Le programme de chaque session se décompose en 4 interventions.  
 Elles durent chacune environ 20 minutes + 10 minutes de questions du public.
